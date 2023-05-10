@@ -30,14 +30,13 @@ a {display: block;}
 /* Phone Styles  */
 
 min-width: 320px;
-max-width: 428px;
+
 padding-left: 16px;
 padding-right: 16px;
 margin-left: auto;
 margin-right: auto;
 
-outline: 2px solid red;
-outline-offset: -2px;}
+}
 
 /* Tablet and PC styles */
 @media screen and (min-width: 768px) {
